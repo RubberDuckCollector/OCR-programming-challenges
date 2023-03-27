@@ -17,3 +17,7 @@ The unit converter wasn't too hard. I just had to make sure to keep my code reas
 
 This was pretty easy. I wrote repetitive code but it doesn't really matter for me. I did extension 1 but not extension 2 because extension 2 was too hard for me.
 * No Chat-GPT used
+
+### 39 - Sing along
+This is very easy in python if you know the reversed for loop.
+• No Chat-GPT used, and I solved this before it released
