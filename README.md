@@ -12,3 +12,8 @@ This had some if statements I needed to get my head around which took a long tim
 
 The unit converter wasn't too hard. I just had to make sure to keep my code reasonably modular by pre-defining functions that return the converted units so I could call them when the user is prompted for an input.
 * No chat-GPT used
+
+### 8 - Arithmetic Test
+
+This was pretty easy. I wrote repetitive code but it doesn't really matter for me. I did extension 1 but not extension 2 because extension 2 was too hard for me.
+* No Chat-GPT used
