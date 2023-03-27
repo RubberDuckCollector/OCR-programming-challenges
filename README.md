@@ -20,4 +20,4 @@ This was pretty easy. I wrote repetitive code but it doesn't really matter for m
 
 ### 39 - Sing along
 This is very easy in python if you know the reversed for loop.
-* No Chat-GPT used, and I solved this before it released
+* No Chat-GPT used, I solved this before it released
