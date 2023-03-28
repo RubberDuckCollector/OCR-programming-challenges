@@ -38,7 +38,15 @@ def find_happy_numbers(b):
 ### 12 - Quiz Maker
 
 This was easy for me. The only tricky parts are reading the questions and answers from the file in the correct way (as sublists in a bigger list) and correctly processing each element in the sublists with the list comprehension
+* No Chat-GPT used
 
+### 20 - Palindromes
+Palindromes in Python are very easy. There are 2 shorthand techniques where:
+```Python
+message = message[::-1] # reverses the string
+
+return msg[::-1] == msg # this will return either True or False due to the "=="
+```
 * No Chat-GPT used
 
 ### 39 - Sing along
