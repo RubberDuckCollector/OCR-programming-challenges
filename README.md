@@ -1,6 +1,15 @@
 # OCR-programming-challenges
 https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
 
+## Challenges completed:
+
+* 5 - Fruit Machine
+* 6 - Unit Converter
+* 8 - Arithmetic Test
+* 9 - Happy Numbers
+* 12 - Quiz Maker
+* 20 - Palindromes
+
 ## Notes
 
 ### 5 - Fruit Machine
