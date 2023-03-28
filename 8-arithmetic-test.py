@@ -72,7 +72,7 @@ def main():
 
     print(f"Answers correct: {answers_correct} out of 10")
 
-    with open(f"8-arithmetic/class-{class_}.txt", "a") as f:
+    with open(f"class-{class_}.txt", "a") as f:
         f.write(f"{name}: {answers_correct}")
         
 
