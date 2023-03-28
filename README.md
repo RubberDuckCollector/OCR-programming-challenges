@@ -35,6 +35,12 @@ def find_happy_numbers(b):
     return b == 1
 ```
 
+### 12 - Quiz Maker
+
+This was easy for me. The only tricky parts are reading the questions and answers from the file in the correct way (as sublists in a bigger list) and correctly processing each element in the sublists with the list comprehension
+
+* No Chat-GPT used
+
 ### 39 - Sing along
 This is very easy in python if you know the reversed for loop
 * No Chat-GPT used, I solved this before it released
