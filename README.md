@@ -8,6 +8,7 @@ https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
 * 8 - Arithmetic Test
 * 9 - Happy Numbers
 * 12 - Quiz Maker
+* 15 - Pangrams
 * 20 - Palindromes
 
 ## Notes
@@ -48,6 +49,10 @@ def find_happy_numbers(b):
 
 This was easy for me. The only tricky parts are reading the questions and answers from the file in the correct way (as sublists in a bigger list) and correctly processing each element in the sublists with the list comprehension
 * No Chat-GPT used
+
+### 15 - Pangrams
+This was quite easy for me because brute forcing it is easy.
+* Chat-GPT used for the regular expression and the rest of the code in the regex version of `is_pangram`
 
 ### 20 - Palindromes
 Palindromes in Python are very easy. There are 2 shorthand techniques where:
