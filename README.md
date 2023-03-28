@@ -11,7 +11,7 @@ This had some if statements I needed to get my head around which took a long tim
 ### 6 - Unit Converter
 
 The unit converter wasn't too hard. I just had to make sure to keep my code reasonably modular by pre-defining functions that return the converted units so I could call them when the user is prompted for an input
-* No chat-GPT used
+* No Chat-GPT used
 
 ### 8 - Arithmetic Test
 
