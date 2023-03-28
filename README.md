@@ -23,6 +23,17 @@ This was pretty easy. I wrote repetitive code but it doesn't really matter for m
 I figured out how to determine a happy number very quickly, and then got stuck trying to use a for loop to test many numbers to see if they're a happy number or not. That took me a very long time and I just couldn't get it. All of my attempts were long winded and never going to work
 
 • Chat-GPT used for this part of the code
+```Python
+def find_happy_numbers(b):
+    happy_list = []
+    count = 0
+
+    while b not in happy_list and count < 50:
+        happy_list.append(b)
+        b = happy_numbers(b)
+        count += 1
+    return b == 1
+```
 
 ### 39 - Sing along
 This is very easy in python if you know the reversed for loop.
