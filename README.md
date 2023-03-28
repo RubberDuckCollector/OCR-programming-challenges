@@ -3,15 +3,15 @@ https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
 
 ## Challenges completed:
 
-* 5 - Fruit Machine
-* 6 - Unit Converter
-* 8 - Arithmetic Test
-* 9 - Happy Numbers
-* 12 - Quiz Maker
-* 15 - Pangrams
-* 20 - Palindromes
-* 23 - Fibbing
-* 24 - Hack Proof
+5. 5 - Fruit Machine
+6. 6 - Unit Converter
+8. 8 - Arithmetic Test
+9. 9 - Happy Numbers
+12. 12 - Quiz Maker
+15. 15 - Pangrams
+20. 20 - Palindromes
+23. 23 - Fibbing
+24. 24 - Hack Proof
 
 ## Notes
 
