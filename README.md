@@ -18,6 +18,12 @@ The unit converter wasn't too hard. I just had to make sure to keep my code reas
 This was pretty easy. I wrote repetitive code but it doesn't really matter for me. I did extension 1 but not extension 2 because extension 2 was too hard for me.
 * No Chat-GPT used
 
+### 9 - Happy Numbers
+
+I figured out how to determine a happy number very quickly, and then got stuck trying to use a for loop to test many numbers to see if they're a happy number or not. That took me a very long time and I just couldn't get it. All of my attempts were long winded and never going to work
+
+• Chat-GPT used for this part of the code
+
 ### 39 - Sing along
 This is very easy in python if you know the reversed for loop.
 * No Chat-GPT used, I solved this before it released
