@@ -10,6 +10,7 @@ https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
 * 12 - Quiz Maker
 * 15 - Pangrams
 * 20 - Palindromes
+* 23 - Fibbing
 
 ## Notes
 
@@ -61,6 +62,10 @@ message = message[::-1] # reverses the string
 
 return msg[::-1] == msg # this will return either True or False due to the "=="
 ```
+* No Chat-GPT used
+
+### 23 - Fibbing
+This was pretty easy for me. I remmebered the recursive solustion to the fibonacci sequence so I used that and the rest was knowledge of for loops and the builtin `reversed` and `sum` keywords
 * No Chat-GPT used
 
 ### 39 - Sing along
