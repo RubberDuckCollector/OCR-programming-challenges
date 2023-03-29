@@ -12,6 +12,7 @@ https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
 * 20 - Palindromes
 * 23 - Fibbing
 * 24 - Hack Proof
+* 25 - Ordering
 
 ## Notes
 
@@ -72,6 +73,9 @@ This was pretty easy for me. I remmebered the recursive solustion to the fibonac
 ### 24 - Hack Proof
 Pretty easy
 * No Chat-GPT used
+
+### 25 - Ordering
+This was
 
 ### 39 - Sing along
 This is very easy in python if you know the reversed for loop
