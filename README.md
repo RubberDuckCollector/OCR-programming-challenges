@@ -34,8 +34,8 @@ This was pretty easy. I wrote repetitive code but it doesn't really matter for m
 ### 9 - Happy Numbers
 
 I figured out how to determine a happy number very quickly, and then got stuck trying to use a for loop to test many numbers to see if they're a happy number or not. That took me a very long time and I couldn't do it. All of my attempts were long winded and never going to work
+* Chat-GPT used for this part of the code
 
-• Chat-GPT used for this part of the code
 ```Python
 def find_happy_numbers(b):
     happy_list = []
