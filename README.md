@@ -54,10 +54,12 @@ This was easy for me. The only tricky parts are reading the questions and answer
 * No Chat-GPT used
 
 ### 15 - Pangrams
+
 This was quite easy for me because brute forcing it is easy.
 * Chat-GPT used for the regular expression and the rest of the code in the regex version of `is_pangram`
 
 ### 20 - Palindromes
+
 Palindromes in Python are very easy. There are 2 shorthand techniques where:
 ```Python
 message = message[::-1] # reverses the string
@@ -67,16 +69,21 @@ return msg[::-1] == msg # this will return either True or False due to the "=="
 * No Chat-GPT used
 
 ### 23 - Fibbing
+
 This was pretty easy for me. I remmebered the recursive solustion to the fibonacci sequence so I used that and the rest was knowledge of for loops and the builtin `reversed` and `sum` keywords
 * No Chat-GPT used
 
 ### 24 - Hack Proof
+
 Pretty easy
 * No Chat-GPT used
 
 ### 25 - Ordering
-This was
+
+This wasn't hard other than `msg = "".join([i for i in msg])` which converts the list into a string while joining each element with the data in quotes
+* No Chat-GPT used
 
 ### 39 - Sing along
+
 This is very easy in python if you know the reversed for loop
 * No Chat-GPT used, I solved this before it released
