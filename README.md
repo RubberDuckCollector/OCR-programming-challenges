@@ -14,7 +14,7 @@ https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
 * 24 - Hack Proof
 * 25 - Ordering
 * 33 - Mor-se Coding
-* 36 - Triangulate (Not finished extension)
+* 36 - Triangulate (Not finished extension, WIP)
 * 39 - Sing Along
 
 ## Notes
@@ -91,7 +91,7 @@ This wasn't hard other than `msg = "".join([i for i in msg])` which converts the
 Challenge 33 was definitely a challenge overall. I found decoding morse code to be much harder than encoding. I used ChatGPT a lot, but the only parts of the final code written by it was `morse_list[i:i+1] = split_chars`, and I also used it for convenience as I made it rearrange my dictionaries so the keys and values swapped places. Other than that, this was a fun challenge and it's one of the more practical one's I've tried.
 * ChatGPT used
 
-### Triangulate
+### 36 - Triangulate (WIP)
 
 I used the internet to learn about the triangle inequality theorem so I could complete the non-extension part of the challenge. I then re-learned the sine rule to help me figure out how to do the extension, but coming up with solutions confused me so I left the extension for later
 * No ChatGPT used
