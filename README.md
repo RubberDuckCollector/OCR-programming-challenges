@@ -10,6 +10,7 @@ https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
 * 12 - Quiz Maker
 * 15 - Pangrams
 * 20 - Palindromes
+* 22 - Simple Life Calculator
 * 23 - Fibbing
 * 24 - Hack Proof
 * 25 - Ordering
@@ -63,6 +64,10 @@ message = message[::-1] # reverses the string
 
 return msg[::-1] == msg # this will return either True or False due to the "=="
 ```
+
+### 22 - Simple Life Calculator
+
+easy
 
 ### 23 - Fibbing
 
