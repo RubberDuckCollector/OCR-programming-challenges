@@ -14,6 +14,7 @@ https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
 * 23 - Fibbing
 * 24 - Hack Proof
 * 25 - Ordering
+* 30 - Year Addition
 * 33 - Mor-se Coding
 * 36 - Triangulate (Not finished extension, WIP)
 * 39 - Sing Along
@@ -81,9 +82,13 @@ Pretty easy
 
 This wasn't hard other than `msg = "".join([i for i in msg])` which converts the list into a string while joining each element with the data in quotes
 
+### Year Addition
+
+Easy
+
 ### 33 - Mor-se Coding
 
-Challenge 33 was definitely a challenge overall. I found decoding morse code to be much harder than encoding. I used ChatGPT a lot, but the only parts of the final code written by it was `morse_list[i:i+1] = split_chars`, and I also used it for convenience as I made it rearrange my dictionaries so the keys and values swapped places. Other than that, this was a fun challenge and it's one of the more practical one's I've tried.
+Challenge 33 was definitely hard. I found decoding morse code to be much harder than encoding. This was a fun challenge and it's one of the more practical ones I've tried.
 
 ### 36 - Triangulate (WIP)
 
