@@ -27,6 +27,7 @@ def guess(year):
             print("incorrect")
             attempt += 1
 
-    print("you couldn't get it in 3 attempts or less")
+    print("you couldn't get it in 3 attempts or fewer")
+    return
     
 guess(2015)
