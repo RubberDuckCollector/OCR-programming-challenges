@@ -17,6 +17,7 @@ https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
 * 30 - Year Addition
 * 33 - Mor-se Coding
 * 36 - Triangulate (Not finished extension, WIP)
+* 37 - Fizz Buzz
 * 39 - Sing Along
 
 ## Notes
@@ -93,6 +94,9 @@ Challenge 33 was definitely hard. I found decoding morse code to be much harder 
 ### 36 - Triangulate (WIP)
 
 I used the internet to learn about the triangle inequality theorem so I could complete the non-extension part of the challenge. I then re-learned the sine rule to help me figure out how to do the extension, but coming up with solutions confused me so I left the extension for later
+
+### 37 - Fizz Buzz
+Easy
 
 ### 39 - Sing along
 
