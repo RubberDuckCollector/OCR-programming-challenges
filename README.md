@@ -3,6 +3,7 @@ https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
 
 ## Challenges completed:
 
+* 1 - Factorial Finder
 * 5 - Fruit Machine
 * 6 - Unit Converter
 * 8 - Arithmetic Test
@@ -20,8 +21,13 @@ https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
 * 36 - Triangulate (Not finished extension, WIP)
 * 37 - Fizz Buzz
 * 39 - Sing Along
+* 61 - Your name is...
 
 ## Notes
+
+### 1 - Factorial Finder
+
+Easy
 
 ### 5 - Fruit Machine
 
@@ -106,3 +112,7 @@ Easy
 ### 39 - Sing along
 
 This is very easy in python if you know the reversed for loop
+
+### 61 - Your name is...
+
+Easy
