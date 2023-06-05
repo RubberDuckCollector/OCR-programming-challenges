@@ -21,6 +21,7 @@ https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
 * 36 - Triangulate (Not finished extension, WIP)
 * 37 - Fizz Buzz
 * 39 - Sing Along
+* 45 - Find the factorial
 * 61 - Your name is...
 * 62 - 62-R@nd0m-P@ssw0rd--generator
 
@@ -113,6 +114,10 @@ Easy
 ### 39 - Sing along
 
 This is very easy in python if you know the reversed for loop
+
+### 45 - Find the factorial
+
+Easy and also the same as challenge 1
 
 ### 61 - Your name is...
 
