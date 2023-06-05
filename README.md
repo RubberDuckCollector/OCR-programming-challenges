@@ -15,6 +15,7 @@ https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
 * 24 - Hack Proof
 * 25 - Ordering
 * 30 - Year Addition
+* 31 - Forwards and Backwards
 * 33 - Mor-se Coding
 * 36 - Triangulate (Not finished extension, WIP)
 * 37 - Fizz Buzz
@@ -86,6 +87,10 @@ This wasn't hard other than `msg = "".join([i for i in msg])` which converts the
 ### 30 - Year Addition
 
 Easy
+
+### 31 - Forwards and Backwards
+
+I think it's the same as number 20
 
 ### 33 - Mor-se Coding
 
