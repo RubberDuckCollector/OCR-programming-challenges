@@ -22,6 +22,7 @@ https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
 * 37 - Fizz Buzz
 * 39 - Sing Along
 * 61 - Your name is...
+* 62 - 62-R@nd0m-P@ssw0rd--generator
 
 ## Notes
 
@@ -114,5 +115,9 @@ Easy
 This is very easy in python if you know the reversed for loop
 
 ### 61 - Your name is...
+
+Easy
+
+### 62 - 62-R@nd0m-P@ssw0rd--generator
 
 Easy
