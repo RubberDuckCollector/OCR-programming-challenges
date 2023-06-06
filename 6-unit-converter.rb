@@ -1,4 +1,4 @@
-def length_convert(choice, value) # 
+def length_convert(choice, value)
     if choice == 1
         return value / 1.60934
     elsif choice == 2
@@ -38,7 +38,7 @@ def main
 
     if choice == "length"
 
-        print "enhter the value of the distance to convert: "
+        print "enter the value of the distance to convert: "
         length_value = gets.chomp.to_i
 
         print "do you want to convert km to miles (1) or miles to km? (2) "
@@ -51,7 +51,7 @@ def main
         end
     
     elsif choice == "speed"
-        print "enhter the value of the distance to convert: "
+        print "enter the value of the distance to convert: "
         speed_value = gets.chomp.to_i
 
         print "do you want to convert kmh to mph (1) or mph to kmh? (2) "
@@ -64,7 +64,7 @@ def main
         end
     
     elsif choice == "temperature"
-        print "enhter the value of the temperature to convert: "
+        print "enter the value of the temperature to convert: "
         temp_value = gets.chomp.to_f
 
         print "is this Celcius (C), farenheit (F), or kelvin (K) "
