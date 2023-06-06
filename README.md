@@ -21,6 +21,7 @@ https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
 * 36 - Triangulate (Not finished extension, WIP)
 * 37 - Fizz Buzz
 * 38 - Sing Along
+* 39 - Even more Odd
 * 45 - Find the factorial
 * 61 - Your name is...
 * 62 - 62-R@nd0m-P@ssw0rd--generator
@@ -114,6 +115,14 @@ Easy
 ### 38 - Sing along
 
 This is very easy in python if you know the reversed for loop
+
+### 39 - Even more Odd
+
+Pretty fun if you use list comprehension to make the odd and even lists in this way of doing it
+```Python
+even = [i for i in nums if i % 2 == 0]
+odd = [i for i in nums if i % 2 != 0]
+```
 
 ### 45 - Find the factorial
 
