@@ -22,6 +22,7 @@ https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
 * 37 - Fizz Buzz
 * 38 - Sing Along
 * 39 - Even more Odd
+* 40 - Base of Numbers
 * 45 - Find the factorial
 * 61 - Your name is...
 * 62 - 62-R@nd0m-P@ssw0rd--generator
@@ -123,6 +124,10 @@ Pretty fun if you use list comprehension to make the odd and even lists in this 
 even = [i for i in nums if i % 2 == 0]
 odd = [i for i in nums if i % 2 != 0]
 ```
+
+### 40 - Base of Numbers
+
+This has very simple but effective solutions
 
 ### 45 - Find the factorial
 
