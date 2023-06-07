@@ -137,6 +137,6 @@ Easy and also the same as challenge 1
 
 Easy
 
-### 62 - 62-R@nd0m-P@ssw0rd--generator
+### 62 - R@nd0m-P@ssw0rd--generator
 
 Easy
