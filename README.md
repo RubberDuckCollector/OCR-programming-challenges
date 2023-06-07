@@ -26,6 +26,7 @@ https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
 * 45 - Find the factorial
 * 61 - Your name is...
 * 62 - 62-R@nd0m-P@ssw0rd--generator
+* 77 - Fib on a chi
 
 ## Notes
 
@@ -140,3 +141,7 @@ Easy
 ### 62 - R@nd0m-P@ssw0rd--generator
 
 Easy
+
+### 77 - Fib on a chi
+
+I'm guessing there is a wway to calculate the answer but I did it empirically because it's easy and answers the question
