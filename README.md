@@ -80,7 +80,7 @@ return msg[::-1] == msg # this will return either True or False due to the "=="
 
 ### 22 - Simple Life Calculator
 
-easy
+Too real
 
 ### 23 - Fibbing
 
