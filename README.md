@@ -24,6 +24,7 @@ https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
 * 39 - Even more Odd
 * 40 - Base of Numbers
 * 45 - Find the factorial
+* 48 - Reverse It
 * 61 - Your name is...
 * 62 - 62-R@nd0m-P@ssw0rd--generator
 * 76 - That's a lot of number
@@ -134,6 +135,16 @@ This has very simple but effective solutions
 ### 45 - Find the factorial
 
 Easy and also the same as challenge 1
+
+### 48 - Reverse It
+
+Again quite an easy challenge, all you need to do is iterate through the vowels and consonants and also remember the shorthand for reversing a string:
+
+```Python
+msg = msg[::-1] # string slicing syntax
+
+msg = "".join(reversed(msg)) # this also works somehow
+```
 
 ### 61 - Your name is...
 
