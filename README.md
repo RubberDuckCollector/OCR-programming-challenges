@@ -4,6 +4,7 @@ https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
 ## Challenges completed:
 
 * 1 - Factorial Finder
+* 3 - Thief!
 * 5 - Fruit Machine
 * 6 - Unit Converter
 * 8 - Arithmetic Test
@@ -35,6 +36,10 @@ https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
 ### 1 - Factorial Finder
 
 Easy
+
+### 3- Thief!
+
+It's very easy with `itertools.perumations()` it returns an itertools object that you can cast into a list and it will be a list of tuples of the permutations
 
 ### 5 - Fruit Machine
 
