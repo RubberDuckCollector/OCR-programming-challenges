@@ -164,4 +164,4 @@ nums = [int(i) for i in f]
 
 ### 77 - Fib on a chi
 
-I'm guessing there is a wway to calculate the answer but I did it empirically because it's easy and answers the question
+I'm guessing there is a way to calculate the answer but I did it empirically because it's easy and answers the question
