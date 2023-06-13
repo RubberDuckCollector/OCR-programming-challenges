@@ -19,6 +19,7 @@ https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
 * 30 - Year Addition
 * 31 - Forwards and Backwards
 * 33 - Mor-se Coding
+* 34 - What's the day?
 * 36 - Triangulate (Not finished extension, WIP)
 * 37 - Fizz Buzz
 * 38 - Sing Along
@@ -114,6 +115,10 @@ I think it's the same as number 20
 ### 33 - Mor-se Coding
 
 Challenge 33 was definitely hard. I found decoding morse code to be much harder than encoding. This was a fun challenge and it's one of the more practical ones I've tried.
+
+### 34 - What's the day?
+
+Easy with the datetime library
 
 ### 36 - Triangulate (WIP)
 
