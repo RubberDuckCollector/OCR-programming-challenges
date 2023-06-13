@@ -8,6 +8,7 @@ def today():
 date = input("Enter a date (yyyy-mm-dd): ")
 date = dt.strptime(date, "%Y-%m-%d")
 print(date)
+print(dt.strftime(date, "%A"))
 
 
 # today()
