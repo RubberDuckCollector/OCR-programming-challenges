@@ -24,6 +24,7 @@ https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
 * 38 - Sing Along
 * 39 - Even more Odd
 * 40 - Base of Numbers
+* 41 - Prime Factorisation
 * 45 - Find the factorial
 * 48 - Reverse It
 * 61 - Your name is...
@@ -136,6 +137,11 @@ odd = [i for i in nums if i % 2 != 0]
 ### 40 - Base of Numbers
 
 This has very simple but effective solutions
+
+### 41 - Prime Factorisation
+
+I tried to do something crazy until I went crazy and I used the internet
+The comments in the `prime_factors` function are a graveyard
 
 ### 45 - Find the factorial
 
