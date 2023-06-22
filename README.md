@@ -29,7 +29,7 @@ https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
 * 45 - Find the factorial
 * 48 - Reverse It
 * 61 - Your name is...
-* 62 - 62-R@nd0m-P@ssw0rd--generator
+* 62 - R@nd0m P@ssw0rd generator
 * 76 - That's a lot of number
 * 77 - Fib on a chi
 
