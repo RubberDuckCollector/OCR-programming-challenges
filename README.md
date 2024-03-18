@@ -2,6 +2,9 @@
 
 https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
 
+- there were 124 commits before this teehee
+- i forgot to look at the original date of this repo before doing `g push -f`
+
 ## Challenges completed:
 
 <!-- vim-markdown-toc GFM -->
