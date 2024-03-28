@@ -9,18 +9,25 @@ def fib(n):
         c = a + b
         a = b
         b = c
-    return c # is the nth term of the sequence
+    return c  # is the nth term of the sequence
 
-i = 1
-while True:
-    
-    # int to str conversions currently use an n squared algorithm maybe there's a more efficient way
-    a = str(fib(i))
-    print(a)
 
-    if len(a) >= 1000:
-        print(f"\n{a}")
-        print(f"the {i} term of the fibonacci sequence is the first one with 1000 digits")
-        break
+def main():
+    i = 1
+    while True:
 
-    i += 1
+        #  int to str conversions currently use an n squared algorithm maybe there's a more efficient way
+        a = str(fib(i))
+        print(a)
+
+        if len(a) >= 1000:
+            print(f"\n{a}")
+            print(
+                f"the {i} term of the fibonacci sequence is the first one with 1000 digits")
+            break
+
+        i += 1
+
+
+if __name__ == "__main__":
+    main()

@@ -1,5 +1,4 @@
 def factorial_iterative(n):
-
     """
     - parameter n mst be postive
 
@@ -20,7 +19,7 @@ def factorial_iterative(n):
 
     24 * 5 = 120 (counter * i)
     """
-    
+
     counter = 1
 
     for i in range(1, n + 1):
@@ -28,10 +27,11 @@ def factorial_iterative(n):
 
     return counter
 
+
 print(factorial_iterative(10))
 
-def factorial_recursive(n):
 
+def factorial_recursive(n):
     """
     - parameter n must be positive
 
@@ -70,5 +70,6 @@ def factorial_recursive(n):
         return 1
     else:
         return n * factorial_recursive(n - 1)
-    
+
+
 print(factorial_recursive(5))
