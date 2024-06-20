@@ -124,7 +124,7 @@ def main():
 
     # user_input = input("Enter your message: ").lower()
     user_input = encoded
-    encoded = morse_code_to_str(encoded, morse_code_to_alpha) # type: ignore
+    encoded = morse_code_to_str(user_input, morse_code_to_alpha) # type: ignore
     # encoded = morse_code_to_str(user_input, morse_code_to_alpha) # type: ignore
     print(f"Your encoded message: {encoded}")
 
