@@ -18,6 +18,7 @@ https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
 * [9 - Happy Numbers](#9---happy-numbers)
 * [12 - Quiz Maker](#12---quiz-maker)
 * [15 - Pangrams](#15---pangrams)
+* [18 - Years in a Range](#18---years-in-a-range)
 * [20 - Palindromes](#20---palindromes)
 * [22 - Simple Life Calculator](#22---simple-life-calculator)
 * [23 - Fibbing](#23---fibbing)
@@ -37,7 +38,7 @@ https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
 * [48 - Reverse It](#48---reverse-it)
 * [61 - Your name is...](#61---your-name-is)
 * [62 - R@nd0m-P@ssw0rd--generator](#62---rnd0m-pssw0rd--generator)
-* [63 - I like P](#63---i-like-p)
+* [63 - I like Pi](#63---i-like-pi)
 * [76 - That's a lot of number](#76---thats-a-lot-of-number)
 * [77 - Fib on a chi](#77---fib-on-a-chi)
 
@@ -46,6 +47,9 @@ https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
 ### 1 - Factorial Finder
 
 Easy
+
+- [x] python
+- [x] go
 
 ### 3 - Thief!
 
@@ -58,6 +62,7 @@ I don't even know what was going on
 ### 5 - Fruit Machine
 
 This had some if statements I needed to get my head around which took a long time, but overall it wasn't too bad with the exception of the money part. Figuring out when to subtract or add on money to the user's balance was difficult and I resorted to trial and error. The fruit machine had some very difficult sequence for my level when and how I completed it
+- [x] python
 
 ### 6 - Unit Converter
 
@@ -90,6 +95,10 @@ This was easy for me. The only tricky parts are reading the questions and answer
 ### 15 - Pangrams
 
 This was quite easy for me because brute forcing it is easy.
+
+### 18 - Years in a Range
+
+Nice solution if you use `.count`
 
 ### 20 - Palindromes
 
@@ -185,7 +194,7 @@ Easy
 
 Easy
 
-### 63 - I like P
+### 63 - I like Pi
 
 Easy
 
